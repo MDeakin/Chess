@@ -1,0 +1,10 @@
+{
+
+ "name":"chessy",
+ "description":"writting some cool code",
+ 
+ "dependencies": {
+     "vows":"*"
+ }
+    
+}
